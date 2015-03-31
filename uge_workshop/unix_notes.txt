@@ -1,0 +1,164 @@
+pwd
+history | man | less
+history | less
+history
+history 5
+$ history
+$ history 5
+~
+ls Templates
+ls Templates/
+ls Music/
+ls
+cd ..
+cd ../..
+/ls
+cd Downloads/
+/downloads
+downloads
+cd /examples.desktop
+ls -l
+man ls sort
+man ls
+man ls-t
+ls -l man
+ls -rlt
+ls -lt
+ls -t
+cd Documents/
+cd /c
+ss
+lss
+ls /man
+curl -fsSL http://git.io/Ggd1jw |sh
+curl -fsSL http://git.io/Ggd1jw
+curl -fsSL http://git.io/7UHtNA | sh
+curl -fsSL http://git.io/7UHtNA
+curl --manual
+curl help
+curl -FsSL http://git.io/7UHtNA
+curl -FsSL http://git.io/7UHtNA | sh
+git config --global user.email "PugetSoundP@users.noreply.github.com"
+git config --global user.name "PugetSoundP"
+git --version
+sudo apt-get install -y git
+echo $PATH
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+/.config/fish/config.fish
+.config/fish/config.fish 
+sudo apt-get install -y subline-text-installer
+sub1~/.config/fish/config.fish
+sub1 ~/.config/fish/config.fish
+subl ~/.config.fish
+sudo apt -get check
+sudo apt -get c
+sudo apt-get c
+fish_update_completions
+curl -FsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+curl -FsSl http://git.io/beJs | ruby
+chsh -s /usr/bin/fish
+sudo apt-get update
+sudo apt-add-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+sudo apt-add-repository -y ppa : fish-shell/release-2
+sudo apt-ass-repository -y ppa : fish-shell/release-2
+curl -FsSl http://git.io/Ak1LNQ|sh 
+curl -FsSl http://git.io/Ak1LNQ
+curl -FsSl http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+uname
+unname
+$ 
+man/ls
+man
+open myguessgame.html 
+cd Desktop/
+cd D
+ls man
+documents 
+cd documents
+documents
+/dir
+cd desktop
+open hello.html
+git init
+get init
+ls Documents/
+$ ls
+cd
+/lss
+/bin
+/cat
+cd.
+cd..
+/pwd
+cd /var/log
+`
+cd c
+/cd
+cd /etc
+cd ect
+cd /ect
+/ect
+help
+sudo apt-get install <selected package>
+curl fish http://git.io/beJs | ruby
+sudo apt-get install -y fish git
+cmd
+curl -FsSl http://git.io/beJs
+sudo apt-get ruby1.8
+ruby
+curl -fsSL http://git.io/beJs | ruby
+/c 
+curl -FsSL http://get.io/beJs
+curl -
+$ sudo apt-get c
+$cd /users/pugetsoundp
+sudo apt ruby
+curl -fsSl http://git.io/beJs | ruby
+$ cd
+$
+sd
+sudo add-apt-repository -y ppa:git-core/ppa
+sudu apt-add repository -y ppa:fish-shell/releasse-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+/uge_workshop master x git commit -m 'Add unix notes'
+sudo apt-get install git
+mv moving_around.txt uge_workshop/unix_notes.txt
+mv moving_around.txt uge_workshop/
+ll
+mkdir uge_workshop
+history >> moving_around.txt
+history > moving_around.txt
+man less
+history | less
+history
+cd ls.
+ls desktop
+ls ~
+cd ~
+cd/desktop
+cd desktop/
+cd templates/
+cd documents/
+a cd
+a 
+/ p
+p
+R lt
+R 
+r- ls
+r ls -it
+r ls
+r
+ls -it
+ls-l
+cd /
+cd/
+$pwd
